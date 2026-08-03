@@ -44,3 +44,11 @@ Each node is a plain Python function that:
 This is intentionally simple — no tools, no branching, no loops — so it's easy
 to read end-to-end and extend (e.g. add a "research" node with web search, or
 a "human review" node that pauses for edits).
+
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/a965e181-9763-4da0-bdf0-e82612931f96" />
+<img width="1915" height="907" alt="image" src="https://github.com/user-attachments/assets/430312ef-ea08-4eac-b8ad-2dbb74d52587" />
+<img width="1916" height="909" alt="image" src="https://github.com/user-attachments/assets/496a018d-abd2-4a3a-aaa3-38dce6e9a67d" />
+<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/0cc9a1c7-9a39-4ef2-adfe-b32e7bf503aa" />
+
+
+
